@@ -1,0 +1,12 @@
+Link para download do Git : https://git-scm.com/downloads
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos básicos:
+- Windows
+cd = navegar entre pastas 
+dir = lista de diretórios (para se situar)
+cls = limpar o terminal
+tecla Tab = autocompleta (atalho)
+cd .. = volta para pasta anterior
+rmdir workspace /s /q = deletar pasta
